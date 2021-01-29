@@ -4,6 +4,14 @@ description: 'Explain Like I''m 5: Decentralized Finance'
 
 # ELI5 DeFi
 
+## Disclaimer
+
+None of this is financial advice, just an educational tool. 
+
+Do your own research, don't risk anything you can't live without, and don't trust anyone. **Never** give out your private key, seed phrase, mnemonic, or passwords.
+
+Now that we've got that out of the way, welcome!
+
 ## What is DeFi?
 
 Decentralized Finance \(DeFi\) is a growing group of financial tools built on Ethereum. These tools are open for anyone to use; all you need is an Ethereum address and some Ether \(ETH\). These tools span a range of uses that let users trade crypto-tokens, take out a loan, cast a vote, and even sell art. Since these tools follow a set of standards, users can combine operations across different protocols. For example, you can build a chain of transactions where you borrow money, make a profitable trade, and repay the loan -- all instantaneously.
