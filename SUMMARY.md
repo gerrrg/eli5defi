@@ -12,6 +12,8 @@
   * [Aave](decentralized-lending/aave.md)
 * [Decentralized Governance](decentralized-governance.md)
 * [Stablecoins](stable-coins/README.md)
-  * [Crypto Backed](stable-coins/crypto-backed.md)
   * [Fiat Backed](stable-coins/fiat-backed.md)
+  * [Crypto Backed](stable-coins/crypto-backed.md)
+  * [Protocol Controlled Value](stable-coins/protocol-controlled-value.md)
+  * [Seigniorage](stable-coins/seigniorage.md)
 
