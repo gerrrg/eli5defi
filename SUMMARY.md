@@ -11,5 +11,7 @@
   * [Compound](decentralized-lending/compound.md)
   * [Aave](decentralized-lending/aave.md)
 * [Decentralized Governance](decentralized-governance.md)
-* [Stable Coins](stable-coins.md)
+* [Stablecoins](stable-coins/README.md)
+  * [Fiat Backed](stable-coins/fiat-backed/README.md)
+    * [Crypto Backed](stable-coins/fiat-backed/crypto-backed.md)
 

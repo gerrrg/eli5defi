@@ -14,7 +14,7 @@ Simply, a Smart Contract is a program that runs on Ethereum. Most of these Smart
 
 ## What is a dApp?
 
-A decentralized app \(dApp\) is just another name for a smart contract. Usually these would refer to decentralized exchanges or other programs, not so much an ERC-20.
+A decentralized app \(dApp\) is just another name for a smart contract. Usually these would refer to decentralized exchanges, lending pools, or other programs.
 
 
 
