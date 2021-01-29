@@ -10,17 +10,11 @@ description: >-
 
 A Decentralized Exchange \(DEX\) is a system that allows users to trade crypto. DEXs never close, and most of them allow anybody to list any token they like, so long as it's compatible. In general, DEXs allow you to trade any ERC-20 token.
 
-DEXs are built on Smart Contracts. Each DEX has a series of contract for different trading pools. Each of these pools is an Automated Market Maker \(more below\).
-
 DEXs are remarkable in that a trader doesn't need to trust the "other party" in a trade. These exchanges happen entirely between a trader and a contract, and the transactions are atomic, so the send of Token A happens at the same time as the receive of Token B.
 
 ## Where do the tokens come from?
 
-People looking to passively generate income from their tokens can become liquidity providers \(LPs\) at decentralized exchanges. This means they put their own tokens into the DEX contracts and let people trade between them. When someone makes a trade, the pool gets to keep a small percentage as a fee.
-
-## What is an AMM?
-
-An Automated Market Maker \(AMM\) is the how a DEX determines prices. Different DEXs use different formulas, but they all take the quantities and weight of assets into account.
+People looking to passively generate income from their tokens can become liquidity providers at decentralized exchanges. This means they put their own tokens into the DEX contracts and let people trade between them. When someone makes a trade, the pool gets to keep a small percentage as a fee. Different DEXs calculate token prices in slightly different ways, so we'll dive into that later.
 
 
 
