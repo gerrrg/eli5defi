@@ -8,7 +8,7 @@ In addition to being a lending platform, Compound is well known for its on-chain
 
 ## What are the interest rates?
 
-Interest rates are set by the market. The more people who attempt to borrow, the higher the interest rates become. 
+Interest rates are set by the market. The more borrowing, the higher the interest rates become. 
 
 ## How much collateral is needed?
 
