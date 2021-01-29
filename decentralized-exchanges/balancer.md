@@ -15,13 +15,13 @@ Balancer uses a "constant product" formula like Uniswap does, but with the incre
 While spot price \(_SP_\) in a Uniswap-style pool can be calculated with:
 
 $$
-SP = B_i/B_o
+SP = \frac{B_i}{B_o}
 $$
 
 With _Bi_ as the balance of the input and _Bo_ as the balance of the output, a Balancer-style pool calculates spot price accounting for the weights of the input and output assets as well.
 
 $$
-SP = (B_i/W_i)/(B_o/W_o)
+SP = \frac{(B_i/W_i)}{(B_o/W_o)}
 $$
 
 ## What's the advantage of multi-asset pools?

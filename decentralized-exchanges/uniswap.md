@@ -33,7 +33,7 @@ $$
 $$
 
 $$
-TokenB_{out} = 30 - 300/(10+3) = 6.92
+TokenB_{out} = \frac{30 - 300}{(10+3)} = 6.92
 $$
 
 You may be saying to yourself "but 6.92 isn't 3 times more than the 3 Token A" and you would be right. We call this "price slippage." In an AMM, each trade effects the price, but as the liquidity increases, slippage decreases. In our example, the slippage was so high because the trade amount was large compared to the amount in the pool. 
