@@ -14,5 +14,5 @@ This contract is an extremely powerful system for enforcing the will of voters s
 
 Off-chain governance is voting that is related to, but doesn't actually happen on, the Ethereum blockchain. In general, this style of voting relies more on the social contract between token-holders and the people or organizations in charge of the contracts. 
 
-An example of off-chain governance ecosystem is [Snapshot](https://snapshot.page/). Snapshot allows Ethereum users to vote, much like they would vote on-chain, except there is no associated gas fee. Snapshot has users sign votes with their private keys \(proving it was truly them who voted\), but does not push the votes to the blockchain.
+An example of off-chain governance ecosystem is [Snapshot](https://snapshot.page/), developed by Balancer Labs. Snapshot allows Ethereum users to vote, much like they would vote on-chain, except there is no associated gas fee. Snapshot has users sign votes with their private keys \(proving it was truly them who voted\), but does not push the votes to the blockchain.
 
