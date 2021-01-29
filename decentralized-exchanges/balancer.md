@@ -12,6 +12,10 @@ Balancer is a decentralized exchange that allows anyone to trade ERC-20 tokens. 
 
 With multi-asset pools, a trader can come and trade between any two assets in a pool. This means that with a single pool with 8 assets, the liquidity provider is making 28 \(8 choose 2\) different trading pairs available. This high number of pairs means more potential trades, and more trade fees. 
 
+## What else can Balancer do?
+
+Balancer has Smart Pools, which have a number of interesting features including surge pricing, liquidity bootstrapping, and more. 
+
 ## How are prices determined?
 
 Balancer uses a "constant product" formula like Uniswap does, but with the increased number of assets and varied weights of assets in a pool, the equation looks a bit more complicated:
