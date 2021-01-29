@@ -10,7 +10,13 @@ Balancer is a decentralized exchange that allows anyone to trade ERC-20 tokens. 
 
 ## How are prices determined?
 
-Balancer uses a "constant product" formula like Uniswap does, but with the increased number of assets and varied weights of assets in a pool, the equations get a bit more complicated. 
+Balancer uses a "constant product" formula like Uniswap does, but with the increased number of assets and varied weights of assets in a pool, the equation looks a bit more complicated:
+
+$$
+\prod{{x_i}^{w_i}}=k
+$$
+
+ Instead of the "xy=k" of the Uniswap formula, Balancer's formula accounts for the custom weight by raising each "x" its weight's exponent. 
 
 While spot price \(_SP_\) in a Uniswap-style pool can be calculated with:
 
@@ -18,7 +24,7 @@ $$
 SP = \frac{B_i}{B_o}
 $$
 
-With _Bi_ as the balance of the input and _Bo_ as the balance of the output, a Balancer-style pool calculates spot price accounting for the weights of the input and output assets as well.
+With _Bi_ as the balance of the input and _Bo_ as the balance of the output, a Balancer-style pool calculates spot price accounting for the weights, _Wi_ and _Wo_, of the input and output assets as well.
 
 $$
 SP = \frac{(B_i/W_i)}{(B_o/W_o)}
