@@ -1,6 +1,6 @@
 ---
 description: >-
-  "Love your Curve and all your edges. All your perfect AMM formulas" -John
+  "Love your Curve and all your hedges. All your perfect AMM formulas" -John
   Legend
 ---
 
