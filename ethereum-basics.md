@@ -12,10 +12,6 @@ A [wallet](https://ethereum.org/en/wallets/) is a unique address that allows a u
 
 Each wallet has two parts: a public and private key. Think of these as account and password. To move ETH from one account to another, a user needs to sign a "send" transaction with their private key. Users also approve transactions interacting with Smart Contracts.
 
-## Is Ethereum free to use?
-
-It is free in the sense that anyone is _allowed_ to use it, but there are transaction fees, called gas, associated with the network. The amount of gas you need is proportional to the amount of computation and storage that your transaction requires, and gas can become more expensive when there is a lot of network traffic.
-
 ## What's a seed phrase?
 
 A seed phrase is a string of characters used to generate a private key. Most commonly, it is a list of 24 random words. You should never store your seed phrase on your computer -- you should write it down on a piece of paper and hide it somewhere memorable but secure. Whoever has this list of words has direct control over your Ethereum wallet.

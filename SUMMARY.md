@@ -7,6 +7,9 @@
   * [Uniswap](decentralized-exchanges/uniswap.md)
   * [Balancer](decentralized-exchanges/balancer.md)
   * [Curve](decentralized-exchanges/curve.md)
+* [Decentralized Lending](decentralized-lending/README.md)
+  * [Compound](decentralized-lending/compound.md)
+  * [Aave](decentralized-lending/aave.md)
 * [Decentralized Governance](decentralized-governance.md)
 * [Stable Coins](stable-coins.md)
 
