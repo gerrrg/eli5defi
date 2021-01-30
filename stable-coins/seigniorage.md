@@ -2,7 +2,7 @@
 
 ## Print and Burn
 
-These algorithmic stablecoins have no backing and are based on game theory with financial incentives. 
+These algorithmic stablecoins have no collateral backing and are based on game theory with financial incentives. 
 
 ## Pros
 
@@ -11,8 +11,8 @@ These algorithmic stablecoins have no backing and are based on game theory with 
 
 ## Cons
 
-* They don't seem to work ¯\\_\(ツ\)\_/¯
 * Early adopters get filthy rich
+* They don't seem to work ¯\\_\(ツ\)\_/¯
 * High risk money games
 * Large players \("whales"\) can greatly influence the market valuation
 

@@ -16,5 +16,6 @@
   * [Crypto Backed](stable-coins/crypto-backed.md)
   * [Protocol Controlled Value](stable-coins/protocol-controlled-value.md)
   * [Seigniorage](stable-coins/seigniorage.md)
-* [DeFi Incentives](defi-incentives.md)
+* [DeFi Incentives](defi-incentives/README.md)
+  * [Yearn Finance](defi-incentives/yearn-finance.md)
 

@@ -10,7 +10,7 @@ None of this is financial advice, just an educational tool.
 
 Do your own research, don't risk anything you can't live without, and don't trust anyone. **Never** give out your private key, seed phrase, mnemonic, or passwords.
 
-Since crypto is ever-evolving, this will never be able to cover absolutely everything. Notice something missing? You can contribute on GitHub!
+Since crypto is ever-evolving, this will never be able to cover absolutely everything. Notice something is missing? You can contribute on GitHub!
 
 Now that we've got that out of the way, welcome!
 

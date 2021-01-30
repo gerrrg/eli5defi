@@ -18,8 +18,6 @@ There are a number of ways that stablecoins work \(or try to work\). They each h
 
 * Fiat backed
 * Crypto backed
-* Seigniorage
 * Protocol Controlled Value
-
-
+* Seigniorage
 
