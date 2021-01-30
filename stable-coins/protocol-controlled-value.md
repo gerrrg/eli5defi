@@ -22,7 +22,7 @@ When you give the protocol assets to create the stablecoin, it can actually do m
 * Don't have to worry about fleeing collateral if better rewards pop up \("Mercenary Capital"\)
 * Decentralized
 * Protocol can build value of controlled assets
-* Protocol stabilized the price itself 
+* Protocol stabilizes the price itself 
 
 ## Cons
 
