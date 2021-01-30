@@ -7,6 +7,7 @@
   * [Uniswap](decentralized-exchanges/uniswap.md)
   * [Balancer](decentralized-exchanges/balancer.md)
   * [Curve](decentralized-exchanges/curve.md)
+  * [Exchange Aggregation](decentralized-exchanges/exchange-aggregation.md)
 * [Decentralized Lending](decentralized-lending/README.md)
   * [Compound](decentralized-lending/compound.md)
   * [Aave](decentralized-lending/aave.md)
@@ -16,6 +17,6 @@
   * [Crypto Backed](stable-coins/crypto-backed.md)
   * [Protocol Controlled Value](stable-coins/protocol-controlled-value.md)
   * [Seigniorage](stable-coins/seigniorage.md)
-* [DeFi Incentives](defi-incentives/README.md)
-  * [Yearn Finance](defi-incentives/yearn-finance.md)
+* [Incentives](incentives/README.md)
+  * [Yearn Finance](incentives/yearn-finance.md)
 

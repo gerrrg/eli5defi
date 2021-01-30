@@ -4,6 +4,10 @@
 
 Governance allows Ethereum users to vote on just about anything you could imagine. Many DeFi protocols have governance tokens to allow the communities to influence decisions made about protocol changes. Some examples of protocol governance changes could be changing trade fees, increasing rewards for a certain behavior, and approving new features.
 
+## What is a DAO?
+
+A DAO is a Decentralized Autonomous Organization. It is made up of governance token holders who vote on protocol proposals.
+
 ## What is "on-chain" governance?
 
 On-chain governance is voting that happens publicly on the blockchain through a smart contract. To see a contract example, check out the [governance contract ](https://github.com/compound-finance/compound-protocol/blob/master/contracts/Governance/GovernorAlpha.sol)for lending protocol Compound. 

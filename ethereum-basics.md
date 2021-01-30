@@ -14,7 +14,7 @@ Each wallet has two parts: a public and private key. Think of these as account a
 
 ## Is Ethereum free to use?
 
-It is free in the sense that anyone is _allowed_ to use it, but there are transaction fees, called gas, associated with the network. The amount of gas you need is proportional to the amount of computation and storage that your transaction requires, and gas can become more expensive when there is a lot of network traffic.
+It is free in the sense that anyone is _allowed_ to use it, but there are transaction fees, called gas, associated with the network. The amount of gas you need is proportional to the amount of computation and storage that your transaction requires, and gas itself can become more expensive when there is a lot of network traffic.
 
 ## What's a seed phrase?
 

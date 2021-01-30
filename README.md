@@ -6,9 +6,9 @@ description: 'Explain Like I''m 5: Decentralized Finance'
 
 ## Disclaimer
 
-None of this is financial advice, just an educational tool. 
+None of this is financial advice, just an educational tool. All protocols mentioned are very new. They should **at best** be considered Beta-level systems. 
 
-Do your own research, don't risk anything you can't live without, and don't trust anyone. **Never** give out your private key, seed phrase, mnemonic, or passwords.
+Do your own research \(**DYOR**\), don't risk anything you can't live without, and don't trust anyone. **Never** give out your private key, seed phrase, mnemonic, or passwords.
 
 Since crypto is ever-evolving, this will never be able to cover absolutely everything. Notice something is missing? You can contribute on GitHub!
 
