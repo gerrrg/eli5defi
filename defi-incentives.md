@@ -1,12 +1,14 @@
 # DeFi Incentives
 
-## Can I become who I want to be?
+## Liquidity Mining, Transaction Mining, Yield Farming
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Kicked off by [Compound in June 2020](https://compound.finance/governance/proposals/7), distributing governance tokens to users in order to incentivize adoption has become a staple of DeFi.
 
-## Have you had a chance to answer the previous question?
+* Liquidity Mining: Rewards to Liquidity Providers on DEXs, lending platforms proportional to the amount provided
+* Transaction Mining: Rewards to users making trades, taking out loans, etc.
+* Yield Farming: Chasing the best reward systems to get the highest returns
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+
 
 
 
