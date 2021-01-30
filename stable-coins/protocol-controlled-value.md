@@ -27,7 +27,6 @@ When you give the protocol assets to create the stablecoin, it can actually do m
 ## Cons
 
 * Still needs to be proven in the market
-* Crypto-asset backing locked in liquidity pool
 
 ## Example
 
