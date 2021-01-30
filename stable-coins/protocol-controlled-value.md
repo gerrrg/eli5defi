@@ -2,7 +2,7 @@
 
 ## Self-stabilizing, no collateral IOU
 
-While most protocols offer rewards to keep your assets in their ecosystem, Protocol Controlled Value doesn't give you much of a choice. When you buy the stablecoin from the protocol, the protocol deploys that asset you just gave it \(along with more of the stablecoin\) as liquidity in a secondary market \(DEX\).
+While most protocols offer rewards to keep your assets in their ecosystem, Protocol Controlled Value doesn't let you take it back -- directly, at least. When you buy the stablecoin from the protocol, the protocol deploys that asset you just gave it \(along with more of the stablecoin\) as liquidity in a secondary market \(DEX\).
 
 This means that when someone wants to buy more of the stablecoin, they can either go to the secondary market, or to the protocol itself, whichever is cheaper.
 
