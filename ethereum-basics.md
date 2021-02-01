@@ -26,6 +26,10 @@ There are many people out there who want to make quick money by stealing your as
 
 If you want to go a step further, you can use a hardware wallet. This is a small device that looks like a USB flash drive. The private key is generated and stored on the device, not on your computer. When you send a transaction, the raw transaction is sent over USB to the hardware wallet for signing, and the approved transaction is sent back over USB to your computer. This never exposes your private key to anyone, even if they have access to your computer.
 
+## Deep Dive on Ethereum
+
+If you want a good resource for learning the nitty gritty of how Ethereum works, check out [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/book.asciidoc), available for free on GitHub.
+
 
 
 
