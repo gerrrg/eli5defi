@@ -16,20 +16,6 @@ With multi-asset pools, a trader can come and trade between any two assets in a 
 
 Balancer has Smart Pools, which have a number of interesting features including surge pricing, liquidity bootstrapping, and more. 
 
-Balancer has [recently announced](https://medium.com/balancer-protocol/balancer-v2-generalizing-amms-16343c4563ff) their Version 2, which is scheduled to be released in March 2021. New features will include:
-
-* Even more customization in trading pools
-  * Including Stablecoin-focused price formulas
-* Reduced gas usage
-* Protocol Vault for all pool assets
-  * One contract holds all assets instead of each pool holding its respective assets
-* Two types of Price Oracles
-  * Resilient
-  * Low gas cost
-* Asset Managers
-
-See more details in the Medium post linked above!
-
 ## How are prices determined?
 
 Balancer uses a "constant product" formula like Uniswap does, but with the increased number of assets and varied weights of assets in a pool, the equation looks a bit more complicated:
