@@ -26,7 +26,9 @@ These equations are the foundations of Automated Market Makers \(AMMs\). Differe
 
 ## What is "Impermanent Loss" \(IL\)?
 
-While some tokens have a similar price ratio over time, sometimes you may see one token become far more valuable. When you have these tokens with changing relative value, you might experience "Impermanent Loss." Some people find the word "Impermanent" misleading and prefer to call it "Divergence Loss" or "Rebalancing Loss." Anyway, let's look at an example:
+Impermanent Loss is the difference in value between holding a set of assets and providing liquidity for those same assets.
+
+Some people find the word "Impermanent" misleading and prefer to call it "Divergence Loss" or "Rebalancing Loss" because one token may perpetually out-value another token, and the loss may seem... permanent. Anyway, let's look at an example:
 
 Let's start a pool with two tokens, each worth $1USD.
 
@@ -46,9 +48,15 @@ Now we might be thinking, wow we made $82.80 in profit, that's great! And though
 * 100 of Token B
 * Total Value: $2\*100 + $1\*100 = $300
 
-So in this example, our IL is $300 - $282.80 = **$17.20**, or **5.7%** of $300. Read more about Impermanent Loss [here](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22?gi=789c65d67891).
+So in this example, our IL is $300 - $282.80 = **$17.20**, or **5.7%** of $300. Read more about Impermanent Loss [here](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22?gi=789c65d67891). Why might someone choose to provide liquidity despite this loss? A few reasons:
 
-In this example, we had an even pool with 50/50 weighting. This is the type of pool you can get if you use Uniswap. Using a provider like Balancer, however, you can change the pool weights to be 33.3/66.6, 20/80, or even 2/98. Using an asymmetric pool can give you more exposure to price movement in assets that you expect to perform well. Read more about the advantages of asymmetrically weighted pools [here](https://medium.com/balancer-protocol/80-20-balancer-pools-ad7fed816c8d).
+1. They expect the price ratios to be stable in the long term
+2. Trading fees
+3. [Liquidity mining rewards](https://explain.eli5defi.info/incentives#liquidity-mining-transaction-mining-yield-farming)
+
+#### Reducing Impermanent Loss
+
+In the above example, we had an even pool with 50/50 weighting. This is the type of pool you can get if you use Uniswap. Using a provider like Balancer, however, you can change the pool weights to be 33.3/66.6, 20/80, or even 2/98. Using an asymmetric pool can give you more exposure to price movement in assets that you expect to perform well. Read more about the advantages of asymmetrically weighted pools [here](https://medium.com/balancer-protocol/80-20-balancer-pools-ad7fed816c8d).
 
 ![IL at different Pool Weights. Image by Fernando Martinelli \(Balancer Labs\)](../.gitbook/assets/il.png)
 
