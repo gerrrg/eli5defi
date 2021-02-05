@@ -36,7 +36,7 @@ Let's start a pool with two tokens, each worth $1USD.
 * 100 of Token B
 * Total Value: $1\*100 + $1\*100 = $200
 
-Now suddenly, Token A becomes worth twice as much at $2USD. People will trade with our pool until the price in our pool approaches the price of the market. If this pool uses a **constant product formula** \(see the pages about [Uniswap](https://explain.eli5defi.info/decentralized-exchanges/uniswap) and [Balancer](https://explain.eli5defi.info/decentralized-exchanges/balancer) for the relevant math\), our pool balances will approach these:
+Now let's pretend that suddenly, Token A becomes worth twice as much at $2USD. People will trade with our pool until the price in our pool approaches the price of the market. If this pool uses a **constant product formula** \(see the pages about [Uniswap](https://explain.eli5defi.info/decentralized-exchanges/uniswap) and [Balancer](https://explain.eli5defi.info/decentralized-exchanges/balancer) for the relevant math\), our pool balances will approach these:
 
 * 70.7 of Token A
 * 141.4 of Token B
