@@ -10,9 +10,9 @@ description: >-
 
 In a world of copy/paste, it's nearly impossible to keep track of ownership. By tokenizing it, it's much easier to track who owns what. The rights to an image, video, song, or any digital form of art can easily be proven by whomever holds an NFT for that piece.
 
-## Do people actually buy this?
+## What kind of art are people buying?
 
-Yes, there are many online art marketplaces selling NFTs. In addition, there have been multiple successful series of randomized NFT released, most notably [CryptoPunk](https://www.larvalabs.com/cryptopunks) and [HashMasks](https://www.thehashmasks.com/), some of which are now worth staggering amounts of money.
+There are many online art marketplaces selling NFTs. Images, short videos, animated GIFs, songs, you name it. In addition, there have been multiple successful series of randomized NFTs released, most notably [CryptoPunk](https://www.larvalabs.com/cryptopunks) and [HashMasks](https://www.thehashmasks.com/), some of which are now worth staggering amounts of money.
 
 ## Examples of online NFT art marketplaces
 
