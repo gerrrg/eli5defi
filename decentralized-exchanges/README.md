@@ -56,7 +56,7 @@ So in this example, our IL is $300 - $282.80 = **$17.20**, or **5.7%** of $300. 
 
 #### Reducing Impermanent Loss
 
-In the above example, we had an even pool with 50/50 weighting. This is the type of pool you can get if you use Uniswap. Using a provider like Balancer, however, you can change the pool weights to be 33.3/66.6, 20/80, or even 2/98. Using an asymmetric pool can give you more exposure to price movement in assets that you expect to perform well. Read more about the advantages of asymmetrically weighted pools [here](https://medium.com/balancer-protocol/80-20-balancer-pools-ad7fed816c8d).
+In the above example, we had an even pool with 50/50 weighting. This is the type of pool you can get if you use Uniswap. Using a provider like Balancer, however, you can change the pool weights to be 66.6/33.3, 80/20, or even 98/2. Using an asymmetric pool can give you more exposure to price movement in assets that you expect to perform well. Read more about the advantages of asymmetrically weighted pools [here](https://medium.com/balancer-protocol/80-20-balancer-pools-ad7fed816c8d).
 
 ![IL at different Pool Weights. Image by Fernando Martinelli \(Balancer Labs\)](../.gitbook/assets/il.png)
 

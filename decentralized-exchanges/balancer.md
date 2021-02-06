@@ -2,7 +2,7 @@
 
 ## What is Balancer?
 
-Balancer is a decentralized exchange that allows anyone to trade ERC-20 tokens. While Uniswap uses a one-size-fits-all approach to pool design, Balancer exposes a tremendous deal of flexibility in liquidity pool design. Balancer pools can have up to 8 assets and the trade fee is determined by the pool creator. Trade fees can range from 0.0001% and 10%. Anyone is able to create a pool. 
+Balancer is a decentralized exchange that allows anyone to trade ERC-20 tokens. While Uniswap uses a one-size-fits-all approach to pool design, Balancer exposes a tremendous deal of flexibility in liquidity pool design. Balancer pools can have up to 8 assets and the trade fee is determined by the pool creator. Trade fees can range from 0.0001% and 10%. Additionally, assets can have unequal weightings, so instead of using 50/50, someone could make a pool that has an 80/20 weighting to reduce [Impermanent Loss](https://explain.eli5defi.info/decentralized-exchanges#what-is-impermanent-loss-il).
 
 ## What's the advantage of multi-asset pools?
 
