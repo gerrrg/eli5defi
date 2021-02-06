@@ -22,4 +22,5 @@
 * [Blockchain Data I/O](blockchain-data-i-o.md)
 * [Collectables/NFTs](collectables-nfts/README.md)
   * [Art](collectables-nfts/art.md)
+  * [Games](collectables-nfts/games.md)
 
