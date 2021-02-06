@@ -20,4 +20,6 @@
 * [Incentives](incentives/README.md)
   * [Yearn Finance](incentives/yearn-finance.md)
 * [Blockchain Data I/O](blockchain-data-i-o.md)
+* [Collectables/NFTs](collectables-nfts/README.md)
+  * [Art](collectables-nfts/art.md)
 
