@@ -6,6 +6,10 @@ Ethereum is a network of computers running a blockchain\*, and is similar to the
 
 \*A blockchain is decentralized ledger -- a public record of all transactions and balances that anyone can look at and verify. It runs on thousands of computers around the world, validating and synchronizing data.
 
+## What is Ether \(ETH\)?
+
+Ether \(ETH\) is the native asset of the Ethereum network. It is used to pay transaction fees, and has a market-defined value.
+
 ## What is an Ethereum Wallet?
 
 A [wallet](https://ethereum.org/en/wallets/) is a unique address that allows a user to interact with the blockchain. It maintains your ETH balance and has your transaction history. 
@@ -14,7 +18,17 @@ Each wallet has two parts: a public and private key. Think of these as account a
 
 ## Is Ethereum free to use?
 
-It is free in the sense that anyone is _allowed_ to use it, but there are transaction fees, called gas, associated with the network. The amount of gas you need is proportional to the amount of computation and storage that your transaction requires, and gas itself can become more expensive when there is a lot of network traffic.
+It is free in the sense that anyone is _allowed_ to use it, but there are transaction fees, called gas, associated with the network.
+
+## What is gas? Why are the fees so high?
+
+Ethereum miners make the network run by validating transactions and recording them on the blockchain; they don't, however, do this for free.
+
+**Gas** is how you quantify the amount of work that an Ethereum Miner has to do to process your transaction. More complex calculations and increases in storage take more work, so gas amount increases. With all things being equal, the amount of gas for a specific action will remain the same over time.
+
+**Gas Price**, however, can change over time. Ethereum users must compete with each other to get their transactions processed. Users can use high gas prices to pay their way to the front of the line of pending transactions. When the network gets crowded, gas prices rise as users push to get their transactions validated faster.
+
+Gas fees are paid in ETH. Websites like [Eth Gas Station](https://ethgasstation.info/) publish current gas prices denoted in Gwei \(1 \* 10e-9 ETH\).
 
 ## What's a seed phrase?
 
