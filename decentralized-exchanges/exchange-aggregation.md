@@ -1,7 +1,3 @@
----
-description: 'Careful, don''t slip'
----
-
 # Exchange Aggregation
 
 ## How do I get the best price for a big trade?

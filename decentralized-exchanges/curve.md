@@ -1,9 +1,3 @@
----
-description: >-
-  "Love your Curve and all your hedges. All your perfect AMM formulas" -John
-  Legend
----
-
 # Curve
 
 ## What is Curve?

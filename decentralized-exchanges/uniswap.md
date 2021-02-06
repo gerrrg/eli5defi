@@ -1,9 +1,3 @@
----
-description: >-
-  "Any LP can have a pool at any ratio that they want, so long as it is 50/50."
-  -Henry Ford
----
-
 # Uniswap
 
 ## What is Uniswap?

@@ -1,7 +1,3 @@
----
-description: '"Well I think you need to be more... flexible" -Elastigirl'
----
-
 # Balancer
 
 ## What is Balancer?
