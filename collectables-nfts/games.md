@@ -4,9 +4,11 @@ description: 'Rare items: tokenized'
 
 # Games
 
-## Is that card legit?
+## Cool card, is it for sale?
 
-Thanks to the immutability of the blockchain, any rare item or card that someone might try to use in a game can be traced directly back to its origin. Fraudulent cards/items/whatever can be detected immediately.
+Thanks to the immutability of the blockchain, any rare item or card that someone might try to sell can be traced directly back to its origin. Fraudulent cards/items/whatever can be detected immediately.
+
+NFT marketplaces also create wide access to trade any in-game item you might be looking for. 
 
 ## But I worked so hard on this game, and I have to start over on the next one?
 
