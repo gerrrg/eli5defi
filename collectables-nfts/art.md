@@ -12,7 +12,7 @@ In a world of copy/paste, it's nearly impossible to keep track of ownership. By 
 
 ## Do people actually buy this?
 
-Yes, there are many online art marketplaces selling NFTs. In addition, there have been multiple successful series of randomized NFT released, most notably [CryptoPunk](https://www.larvalabs.com/cryptopunks) and [HashMasks](https://www.thehashmasks.com/).
+Yes, there are many online art marketplaces selling NFTs. In addition, there have been multiple successful series of randomized NFT released, most notably [CryptoPunk](https://www.larvalabs.com/cryptopunks) and [HashMasks](https://www.thehashmasks.com/), some of which are now worth staggering amounts of money.
 
 ## Examples of online NFT art marketplaces
 
