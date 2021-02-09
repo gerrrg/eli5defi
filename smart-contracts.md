@@ -14,7 +14,7 @@ A decentralized app \(dApp\) is just another name for a smart contract. Usually 
 
 ## How are Smart Contracts written?
 
-Smart Contracts are written in a language called Solidity. Solidity runs on the Ethereum Virtual Machine \(EVM\), runs distributed all over the world on miners' computers.
+Smart Contracts are written in a language called Solidity. Solidity runs on the Ethereum Virtual Machine \(EVM\), which is distributed all over the world on miners' computers.
 
 If you want to learn to write Solidity code, I recommend checking out the [Solidity Docs](https://docs.soliditylang.org/), and [CryptoZombies](https://cryptozombies.io/).
 
