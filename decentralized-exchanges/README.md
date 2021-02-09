@@ -24,6 +24,18 @@ DEXs generally don't use outside price feeds. Instead, they have equations that 
 
 These equations are the foundations of Automated Market Makers \(AMMs\). Different DEXs use different formulas, but they all take the quantities and weight of assets into account.
 
+## Why do I have to "unlock" or "approve" a token on a DEX?
+
+If you've used a centralized exchange \(CEX\), you've sent your tokens directly to the exchange, and the exchange gets absolute control over them. In that case, you've trusted that they will let you trade and won't run away with your tokens.
+
+On DEXs, your assets are in your wallet the whole time. Even when the swap happens, the tokens you're buying enter your wallet at the exact instant that your payment tokens leave. In order to make this happen, you need to authorize the DEX's smart contract to send your payment token on your behalf. This is "approving" or "unlocking" a token. 
+
+**Why?** In general, only a token holder can send their tokens. Unlocking allows you to tell the smart contract that runs token logic that the DEX is going to move your tokens and that you're ok with that.
+
+Some DEXs distinguish between limited unlock and infinite unlock. Limited unlock gives the DEX an "allowance" of _how much_ of a token it's allowed to send on your behalf. Infinite unlock allows you to trade _any amount_ through that DEX unless you revoke permission. 
+
+You should **only allow infinite unlock on reputable DEXs** with public source code. 
+
 ## What is "Impermanent Loss" \(IL\)?
 
 Impermanent Loss is the difference in value between holding a set of assets and providing liquidity for those same assets.
