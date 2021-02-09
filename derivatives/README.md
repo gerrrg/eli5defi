@@ -10,7 +10,7 @@ A crypto derivative is an [ERC-20](https://explain.eli5defi.info/smart-contracts
 
 ## What's the advantage?
 
-Creating derivatives with Smart Contracts allows all sorts of opportunities. In traditional finance, derivatives need to be created by certified, trusted institutions. With decentralized finance, anyone can create and auditable derivative. There's also the opportunity to create derivatives that have logic encoded in them, so that they behave a certain way when the market does something, or based on an external data feed \(like an [oracle](https://explain.eli5defi.info/blockchain-data-i-o#what-data-do-you-want-to-put-on-the-blockchain)\).
+Creating derivatives with Smart Contracts allows all sorts of opportunities. In traditional finance, derivatives need to be created by certified, trusted institutions. With decentralized finance, anyone can create an auditable derivative. There's also the opportunity to create derivatives that have logic encoded in them, so that they behave a certain way when the market does something, or based on an external data feed \(like an [oracle](https://explain.eli5defi.info/blockchain-data-i-o#what-data-do-you-want-to-put-on-the-blockchain)\).
 
 
 
