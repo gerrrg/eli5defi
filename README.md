@@ -34,13 +34,9 @@ Much like how Bitcoin was developed out of disgust of government money policies,
 
 DeFi promotes the concept of going "[bankless](https://twitter.com/BanklessHQ)" and taking control of your own assets. It lets you remove the middle-men of banks, who make money lending out **your** money. DeFi markets don't require anyone's permission and never close, so you can trade whatever you want, whenever you want.
 
-## Why did you write this guide?
+## 
 
-DeFi can quickly get technical, but that doesn't mean you need to have PhDs in Mathematics and Distributed Computing to see how powerful it all is. Learning about these tools can open doors to all sorts of new users with different backgrounds, lifestyles, and experiences that can contribute in ways that others didn't see before. If you find this guide useful please share it! 
 
-This site and the information on it are and always will be free! If you really really like this guide want to chip in with a tip, here's the tip jar address:
 
-_0x4aa3f02a48436364f3fb3d1e7c8c84afe855a161_
 
-ETH and ERC-20 tokens only, any other assets sent to this address will be lost :\(
 
