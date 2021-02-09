@@ -1,7 +1,3 @@
----
-description: The programs that make everything work
----
-
 # Smart Contracts
 
 ## What is a Smart Contract?
