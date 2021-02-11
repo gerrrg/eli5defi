@@ -24,7 +24,7 @@ It is free in the sense that anyone is _allowed_ to use it, but there are transa
 
 Ethereum miners make the network run by validating transactions and recording them on the blockchain; they don't, however, do this for free.
 
-**Gas** is how you quantify the amount of work that an Ethereum Miner has to do to process your transaction. More complex calculations and increases in storage take more work, so gas amount increases. With all things being equal, the amount of gas for a specific action will remain the same over time.
+**Gas** is how you quantify the amount of work that an Ethereum Miner has to do to process your transaction. More complex calculations and increases in storage take more work, so gas amount increases. With all things being equal, the _amount_ of gas for a specific action will remain the same over time.
 
 **Gas Price**, however, can change over time. Ethereum users must compete with each other to get their transactions processed. Users can use high gas prices to pay their way to the front of the line of pending transactions. When the network gets crowded, gas prices rise as users push to get their transactions validated faster.
 
