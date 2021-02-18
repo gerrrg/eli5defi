@@ -60,7 +60,9 @@ Now we might be thinking, wow we made $82.80 in profit, that's great! And though
 * 100 of Token B
 * Total Value: $2\*100 + $1\*100 = $300
 
-So in this example, our IL is $300 - $282.80 = **$17.20**, or **5.7%** of $300. Read more about Impermanent Loss [here](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22?gi=789c65d67891). Why might someone choose to provide liquidity despite this loss? A few reasons:
+So in this example, our IL is $300 - $282.80 = **$17.20**, or **5.7%** of $300. If you want to play around with some numbers, check out [this calculator](https://baller.netlify.app/). 
+
+Why might someone choose to provide liquidity despite this loss? A few reasons:
 
 1. They expect the price ratios to be stable in the long term
 2. Trading fees
@@ -72,5 +74,5 @@ In the above example, we had an even pool with 50/50 weighting. This is the type
 
 ![IL at different Pool Weights. Image by Fernando Martinelli \(Balancer Labs\)](../.gitbook/assets/il.png)
 
-
+Read more about Impermanent Loss [here](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22?gi=789c65d67891). 
 
