@@ -28,7 +28,7 @@ Ethereum miners make the network run by validating transactions and recording th
 
 **Gas Price**, however, can change over time. Ethereum users must compete with each other to get their transactions processed. Users can use high gas prices to pay their way to the front of the line of pending transactions. When the network gets crowded, gas prices rise as users push to get their transactions validated faster.
 
-**Failed Transactions** also get charged gas fees. It's a bummer, but it's necessary; otherwise, malicious users could spam the network for free. A transaction may fail for a variety of reasons, but a common reason is that trade prices change between when you _sign_ the transaction and when it _executes_. It's important to note that when a transaction fails, the gas fees go to the Ethereum network \(specifically the miners\), not whatever app you're using.
+**Failed Transactions** also get charged gas fees. It's a bummer, but it's necessary; otherwise, malicious users could spam the network for free. A transaction may fail for a variety of reasons, but a common reason is that trade prices change between when you _sign_ the transaction and when it _executes_. As noted above, paying more for gas incentivizes your transaction to get processed faster, increasing the chance of its success. It's important to note that when a transaction fails, the gas fees go to the Ethereum network \(specifically the miners\), not whatever app you're using.
 
 Gas fees are paid in ETH. Websites like [Eth Gas Station](https://ethgasstation.info/) publish current gas prices denoted in Gwei \(1 \* 10e-9 ETH\).
 
