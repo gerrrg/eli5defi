@@ -15,5 +15,7 @@ Using an exchange aggregator, of course! These protocols check everything for yo
 
 ## Example
 
-* 1Inch Exchange Aggregator
+* 1Inch
+* Paraswap
+* Matcha
 
