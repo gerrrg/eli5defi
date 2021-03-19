@@ -13,6 +13,8 @@ Using an exchange aggregator, of course! These protocols check everything for yo
 * Trade routing
   * It might be cheaper to go from A-&gt;B-&gt;C than A-&gt;C
 
+Different aggregators use different strategies for finding you the best price, so it's worth exploring your options. In some cases, 3rd party aggregators can be even more efficient than order routers provided by the primary trading protocols. 
+
 ## Example
 
 * 1Inch
