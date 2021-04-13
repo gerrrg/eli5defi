@@ -6,7 +6,7 @@ Curve is a DEX that specializes in trading tokens of the same value. Curve start
 
 Examples of tokens that can trade with each other:
 
-* USD Stablecoins: DAI, USDc, USDT, BUSD
+* USD Stablecoins: DAI, USDC, USDT, BUSD
 * Euro Stablecoins: SEUR, EURS
 * Bitcoin-Pegged Tokens: wBTC, renBTC, sBTC
 * Ether-Pegged Tokens: ETH, WETH, SETH
