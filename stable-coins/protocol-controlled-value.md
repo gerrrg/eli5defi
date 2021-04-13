@@ -6,7 +6,9 @@ While most protocols offer rewards to keep your assets in their ecosystem, Proto
 
 This means that when someone wants to buy more of the stablecoin, they can either go to the secondary market, or to the protocol itself, whichever is cheaper.
 
-If the price gets too high in the secondary market \(supply deficit\), reasonable people will buy the token direct from the protocol, which increases supply. If the stablecoin price gets too low in the secondary market \(supply surplus\), the protocol itself can correct this using a technique like:
+If the price gets too high in the secondary market \(supply deficit\), reasonable people will buy the token direct from the protocol, which increases supply. If the stablecoin price gets too low in the secondary market \(supply surplus\), the protocol incentivizes buying the token, and penalizes selling it.
+
+The protocol can also correct price discrepancies using a technique like:
 
 1. Remove its own liquidity from the pool
 2. Buy the surplus stablecoin from the remaining assets in the pool
@@ -27,8 +29,9 @@ When you give the protocol assets to create the stablecoin, it can actually do m
 ## Cons
 
 * Still needs to be proven in the market
+* Greedy early investors trying to make a quick flip can wreck the price peg
 
 ## Example
 
-* FEI \(has not been deployed at time of writing\) \([read the whitepaper!](https://fei.money/static/media/whitepaper.7d5e2986.pdf)\)
+* FEI \(0x956f47f50a910163d8bf957cf5846d573e7f87ca\)
 

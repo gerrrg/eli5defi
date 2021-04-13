@@ -1,7 +1,3 @@
----
-description: '"I need a dollar, dollar a dollar is what I need" -Aloe Blacc'
----
-
 # Stablecoins
 
 ## What?
