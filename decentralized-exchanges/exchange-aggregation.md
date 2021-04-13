@@ -17,6 +17,7 @@ Different aggregators use different strategies for finding you the best price, s
 
 ## Example
 
+* 0x
 * 1Inch
 * Paraswap
 * Matcha
