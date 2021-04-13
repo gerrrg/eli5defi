@@ -44,7 +44,7 @@ LBPs ****create opportunity for new projects to [distribute tokens fairly](https
 
 ## How are prices determined?
 
-Balancer uses a "constant product" formula [like Uniswap does](https://explain.eli5defi.info/decentralized-exchanges/uniswap#how-are-prices-determined), but with the increased number of assets and varied weights of assets in a pool. The equation is just a generalization of xy=k, even if it looks a bit more complicated:
+Balancer WeightedPools uses a "constant product" formula [like Uniswap does](https://explain.eli5defi.info/decentralized-exchanges/uniswap#how-are-prices-determined), but with the increased number of assets and varied weights of assets in a pool. The equation is just a generalization of xy=k, even if it looks a bit more complicated:
 
 $$
 \prod{{x_i}^{w_i}}=k
