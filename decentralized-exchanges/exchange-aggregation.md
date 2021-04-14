@@ -15,10 +15,9 @@ Using an exchange aggregator, of course! These protocols check everything for yo
 
 Different aggregators use different strategies for finding you the best price, so it's worth exploring your options. In some cases, 3rd party aggregators can be even more efficient than order routers provided by the primary trading protocols. 
 
-## Example
+## Examples
 
-* 0x
+* Matcha
 * 1Inch
 * Paraswap
-* Matcha
 
