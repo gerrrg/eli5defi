@@ -2,27 +2,27 @@
 
 ## What is Balancer?
 
-Balancer is a decentralized exchange and portfolio management system that allows anyone to trade and invest ERC-20 tokens. While Uniswap uses a one-size-fits-all approach to pool design, Balancer exposes a tremendous deal of flexibility in liquidity pool design. 
+Balancer Protocol is an automated portfolio management system, decentralized exchange, and price sensor that allows anyone to invest and trade ERC-20 tokens. While Uniswap uses a one-size-fits-all approach to pool design, Balancer exposes a tremendous deal of flexibility in liquidity pool design. 
 
 Balancer's Weighted Pools can have up to 8 assets and trade fees ranging from 0.0001% and 10%. Additionally, assets can have unequal weightings, so instead of using 50/50, someone could make a pool that has an 80/20 weighting to reduce [Impermanent Loss](https://explain.eli5defi.info/decentralized-exchanges#what-is-impermanent-loss-il).
 
 ## What's the advantage of multi-asset pools?
 
-With multi-asset pools, a trader can come and trade between any two assets in a pool. This means that for a single pool with 8 assets, the liquidity provider is making 28 \(8 choose 2\) different trading pairs available. This high number of pairs means more potential trades, and more opportunities to collect trade fees. 
+With multi-asset pools, a trader can trade between any two assets in a pool. This means that for a single pool with 8 assets, the liquidity provider is making 28 \(8 choose 2\) different trading pairs available. This high number of pairs means more potential trades, and more opportunities to collect trade fees. 
 
 ## What else can Balancer do?
 
-Balancer has created a plug-in model that allows for a great deal of customization. The community can create their own systems to contribute to the Balancer Protocol.
+Balancer has a plug-in model that allows for a great deal of customization. The community can create their own systems to contribute to the Balancer Protocol.
 
 ### **Asset Managers**
 
-In a typical trading pool, only a small fraction of the liquidity is used to make trades. Asset Managers are external contracts that take unused liquidity and invest it elsewhere. For example, the Aave Asset Manager takes tokens from Balancer pools and lends them on Aave Protocol.
+In a typical trading pool, only a small portions of the liquidity is used to facilitate trades. Asset Managers are external contracts that take unused liquidity and invest it elsewhere. For example, the Aave Asset Manager takes tokens from Balancer pools and lends them on Aave Protocol.
 
 ![](../.gitbook/assets/asset_manager.gif)
 
 ### **Custom Pool Types**
 
-Balancer Pools can be designed to have any custom logic you might want. For example, in addition to the standard Weighted Pools, Balancer Pools can now also launch with a **StableSwap pricing** equation, which is highly advantageous for trades between assets that have \(nearly\) the same price.
+Balancer Pools can be designed to have any custom logic you might want. For example, in addition to the standard Weighted Pools, Balancer will soon have pools that run with a **StableSwap pricing** equation, which is highly advantageous for trades between assets that have \(nearly\) the same price.
 
 Example use cases:
 
@@ -44,7 +44,7 @@ LBPs ****create opportunity for new projects to [distribute tokens fairly](https
 
 ## How are prices determined?
 
-Balancer WeightedPools uses a "constant product" formula [like Uniswap does](https://explain.eli5defi.info/decentralized-exchanges/uniswap#how-are-prices-determined), but with the increased number of assets and varied weights of assets in a pool. The equation is just a generalization of xy=k, even if it looks a bit more complicated:
+Balancer **WeightedPools** use a "constant product" formula [like Uniswap does](https://explain.eli5defi.info/decentralized-exchanges/uniswap#how-are-prices-determined), but with an increased number of assets and varied weights of assets in a pool. The equation is a generalization of xy=k, even if it looks a bit more complicated:
 
 $$
 \prod{{x_i}^{w_i}}=k
