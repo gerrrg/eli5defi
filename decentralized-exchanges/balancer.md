@@ -2,7 +2,7 @@
 
 ## What is Balancer?
 
-Balancer Protocol is an automated portfolio management system, decentralized exchange, and price sensor that allows anyone to invest and trade ERC-20 tokens. While Uniswap uses a one-size-fits-all approach to pool design, Balancer exposes a tremendous deal of flexibility in liquidity pool design. 
+Balancer Protocol is an automated portfolio management system, decentralized exchange, and price sensor that allows anyone to invest in and trade ERC-20 tokens. While Uniswap uses a one-size-fits-all approach to pool design, Balancer exposes a tremendous deal of flexibility in liquidity pool design. 
 
 Balancer's Weighted Pools can have up to 8 assets and trade fees ranging from 0.0001% and 10%. Additionally, assets can have unequal weightings, so instead of using 50/50, someone could make a pool that has an 80/20 weighting to reduce [Impermanent Loss](https://explain.eli5defi.info/decentralized-exchanges#what-is-impermanent-loss-il).
 
